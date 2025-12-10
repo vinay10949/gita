@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gita/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"tags":["gardenEntry"],"permalink":"/gita/","dgPassFrontmatter":true}
 ---
 
 
@@ -10,4 +10,8 @@
 - I open a doorway to be a part of a wealth of knowledge from others who have gone before me, and now it is my time to learn.
 
 
-[[Chap 1/V-1.1\| Start]]
+[[Chap 1/V-1.1\|Start]]
+
+
+
+![krishna-paramhansa-yogananda-yukteshwar-ji-mahavatar-babaji-v0-kv2isz1hpg2a1.webp](/img/user/krishna-paramhansa-yogananda-yukteshwar-ji-mahavatar-babaji-v0-kv2isz1hpg2a1.webp)

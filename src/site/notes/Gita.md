@@ -9,6 +9,7 @@
 - All small things matter when they point in a good direction.
 - I open a doorway to be a part of a wealth of knowledge from others who have gone before me, and now it is my time to learn.
 
+
 [[Chap 1/V-1.1\|Start]]
 
 

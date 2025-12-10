@@ -10,4 +10,4 @@
 - I open a doorway to be a part of a wealth of knowledge from others who have gone before me, and now it is my time to learn.
 
 
-[[Gita\|Gita]]
+[[Chap 1/V-1.1\| Start]]
